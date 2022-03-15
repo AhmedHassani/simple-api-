@@ -1,0 +1,1 @@
+spring.data.mongodb.uri: mongodb+srv://root:root@cluster0.jlb8i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
