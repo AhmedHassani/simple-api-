@@ -1,1 +1,2 @@
-spring.data.mongodb.uri: mongodb+srv://root:root@cluster0.jlb8i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+#spring.data.mongodb.host:mongodb://root:12345678@lon5-c15-1.mongo.objectrocket.com:43589,lon5-c15-2.mongo.objectrocket.com:43589,lon5-c15-0.mongo.objectrocket.com:43589/db1?replicaSet=03d803b0791c4423bc7c9411cd847d27
+spring.data.mongodb.uri=mongodb://root:12345678@lon5-c15-1.mongo.objectrocket.com:43589,lon5-c15-2.mongo.objectrocket.com:43589,lon5-c15-0.mongo.objectrocket.com:43589/db1?replicaSet=03d803b0791c4423bc7c9411cd847d27
